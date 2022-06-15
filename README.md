@@ -6,7 +6,6 @@
 - Programming Discord bots
 - C#
 
----
 ## Get better at
 
 - #### TypeScript
@@ -34,7 +33,6 @@
 - #### HTML
     - Master proper tag usage.
 
----
 ## Work on
 
 - Cleaner code.
@@ -42,7 +40,6 @@
 - Improving programming and logical thinking.
 - Code, file and folder organisation.
 
----
 ## Projects
 
 - Console interface python project.
