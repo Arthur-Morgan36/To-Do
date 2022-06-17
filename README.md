@@ -46,4 +46,5 @@
 - Console interface python project.
 - Rework TypeScript's HSL project to be more intuitive and actually challenging instead of a dull guessing game.
 - Apocalypse game.
+- Rust Scraplings
 - Switch to Windows 11.
