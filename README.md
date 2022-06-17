@@ -5,6 +5,7 @@
 - Svelte JavaScript framework
 - Programming Discord bots
 - C#
+- Ruby
 
 ## Get better at
 
