@@ -3,9 +3,9 @@
 ## Learn
 
 - Svelte JavaScript framework
-- Programming Discord bots
 - C#
 - Ruby
+- Programming Discord bots
 
 ## Get better at
 
