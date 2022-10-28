@@ -3,7 +3,6 @@
 ## Learn
 
 - Svelte/React JavaScript framework
-- C#
 
 ## Get better at
 
